@@ -1,0 +1,155 @@
+\documentclass[a5paper, 11pt]{extarticle}
+
+\usepackage{amsmath}
+
+\usepackage{amssymb}
+
+\usepackage{anyfontsize, graphicx, pdfpages}
+
+\usepackage{booktabs}
+
+\usepackage{extsizes}
+
+\usepackage{fixltx2e} % provides \textsubscript
+
+\usepackage{graphicx}
+
+\usepackage{ifxetex, ifluatex}
+
+\usepackage[banglamainfont="Kalpurush", banglattfont="Kalpurus", feature=2]{latexbangla}
+
+\usepackage{fontspec}
+
+\usepackage{lmodern}
+
+\usepackage{longtable}
+
+\usepackage{microtype}
+
+\usepackage{parskip}
+
+\usepackage{pdfpages}
+
+\usepackage{titlesec}
+
+\usepackage{xcolor}
+
+\usepackage{xcolor}
+
+\usepackage{titlesec}
+
+\usepackage{pdfpages}
+
+\usepackage{parskip}
+
+\usepackage{microtype}
+
+\usepackage{longtable}
+
+\usepackage{lmodern}
+
+\usepackage[banglamainfont="Kalpurush", banglattfont="Kalpurush", feature=2]{latexbangla}
+
+\usepackage{ifxetex, ifluatex}
+
+\usepackage{graphicx}
+
+\usepackage{fixltx2e} % provides \textsubscript
+
+\usepackage[a4paper, bottom=0.5cm, right=1.5cm, left=1.5cm, top=1.5cm]{geometry}
+
+\usepackage{extsizes}
+
+\usepackage{booktabs}
+
+\usepackage{anyfontsize, graphicx, pdfpages}
+
+\usepackage{amssymb}
+
+\usepackage{amsmath}
+
+\usepackage{url}
+
+\newfontfamily\hindifont{Noto Sans Devanagari}[Script=Devanagari] 
+
+%\counterwithout{footnote}{chapter}
+
+%\titleformat{\chapter}{\normalfont\huge\bfseries\centering}{\centering\chaptertitlename\ \thechapter}{20pt}{\Huge}
+
+\setlength\parindent{0pt}
+
+%\titlespacing*{\chapter}{0pt}{-60pt}{20pt}
+
+\begin{document}
+
+\title{সংস্কৃত স্বশিক্ষণ}
+
+\author{শৌনক রায় চৌধুরী}
+
+\date{২৯ মে ২০২৪}
+
+%\maketitle
+
+\setcounter{page}{0}
+
+%\setcounter{chapter}{0}
+
+\setcounter{section}{0}
+
+\setcounter{subsection}{0}
+
+\setcounter{footnote}{0}
+
+\renewcommand{\thepage}{\tobangla{page}}
+
+%\renewcommand{\thechapter}{\tobangla{chapter}}
+
+\renewcommand{\thesection}{\tobangla{section}}
+
+\renewcommand{\thesubsection}{\tobangla{subsection}}
+
+\renewcommand{\thefootnote}{\tobangla{footnote}}
+
+\thispagestyle{empty}
+
+\begin{center}
+    
+\Huge \textbf{ঘরে বসেই নিঃশুল্ক সংস্কৃত শিখুন}
+
+\end{center}
+
+\vskip 1cm
+
+\huge \textbf{শাস্ত্রার্থ মীমাংসা} \normalsize টেলিগ্রাম সমূহের উদ্যোগে আন্তর্জালীয় নিঃশুল্ক সংস্কৃত প্রশিক্ষণের ব্যবস্থা করা হয়েছে। দক্ষিণাম্নায় শৃঙ্গেরীমঠের প্রথমা পাঠ্যক্রম অনুসরণ করে মার্চ থেকে আগস্ট পর্যন্ত গুগলমীটে সাপ্তাহিক কক্ষ চলবে। বড়দের জন্য মঙ্গলবার রাত ৯টা থেকে ১ ঘণ্টার কক্ষ চলমান আছে। বাচ্চাদের জন্য আলাদা কক্ষের ব্যবস্থা করা হবে। কক্ষে প্রবেশ করার জন্য শুধু বাংলা বা হিন্দী ভাষা বুঝলেই হবে। আর কোনো পূর্বযোগ্যতার প্রয়োজন নেই। প্রতি পাঠের শেষে পাঠ ও গৃহকার্য হোয়াটস্যাপ সমূহে দেওয়া হয়। আলাদা বই কেনার প্রয়োজন নেই। লাইভ কক্ষ (ক্লাশ) নিঃশুল্ক, তবে কেউ রেকর্ডিং চাইলে সামান্য শুল্কের বিনিময়ে পেতে পারবেন। মাত্র ১০০ টাকা দিয়ে আগস্টের শেষে লিখিত পরীক্ষা দিতে হবে। পরীক্ষার শুল্ক মাত্র ১০০ টাকা, তা জুনমাসে দিতে হবে। এই বর্গ (প্রথমা) উত্তীর্ণ হবার পরে পরবর্তী বর্গে ভর্তি হতে পারবেন।
+
+\vskip 1cm
+
+\begin{center}
+    
+%{\hindifont \Huge \textbf{घर बैठे निःशुल्क संस्कृत सीखें}}
+
+\end{center}
+
+\vskip 1cm
+
+%{\hindifont \huge \textbf{शास्त्रार्थ मीमांसा} \normalsize टेलीग्राम समूह के उद्योग से आंतर्जालीय (ऑनलाइन) निःशुल्क संस्कृत प्रशिक्षण की व्यवस्था की गई है। दक्षिणाम्नाय श्रृंगेरीमठ के प्रथमा पाठ्यक्रम के अनुसार मार्च से अगस्त तक गूगल मीट पर साप्ताहिक कक्षाएं आयोजित की जाएंगी। मंगलवार को रात्रि ९ बजे से वयस्कों के लिए १ घंटे का कक्षा चल रही है। बच्चों के लिए अलग कक्षा की व्यवस्था की जाएगी। कक्षा में प्रवेश करने के लिए आपको केवल बंगाली या हिंदी समझने की आवश्यकता है। किसी भी अतिरिक्त पूर्व-योग्यता की आवश्यकता नहीं है। प्रत्येक पाठ के अंत में गृहकार्य दिया जाता है। लाइव कक्षाएं निःशुल्क हैं, किन्तु यदि कोई रिकॉर्डिंग चाहता है, तो वह इसे सामान्य शुल्क पर प्राप्त कर सकता है। आप आपको अगस्त के अंत में मात्र 100 टका शुल्क देकर लिखित परीक्षा देनी होगी। परीक्षा शुल्क केवल १०० रुपये है, जिसका भुगतान जून में करना होगा। इस कक्षा (प्रथमा) को उत्तीर्ण करने के बाद आप अगली कक्षा में पंजीकरण कर सकते हैं।}
+
+\vskip 1cm
+
+\textbf{যোগাযোগ} %{\hindifont \textbf{संपर्क करें}}
+
+শৌনক রায় চৌধুরী %{\hindifont शौनक राय चौधरी}
+
++919038883642 (হোয়াটস্যাপ/) %{\hindifont व्हाट्सऐप})
+
+saunak.31@gmail.com
+
+\textbf{\url{https://chat.whatsapp.com/K13jA78zMYKJujt4EjoP59}}
+
+\textbf{\url{https://t.ly/zo-FN}}
+
+\textbf{\url{https://t.me/saunak31}}
+
+শাস্ত্রার্থ মীমাংসা
+
+\end{document}
