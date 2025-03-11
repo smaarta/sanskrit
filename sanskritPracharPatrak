@@ -16,7 +16,7 @@
 
 \usepackage{ifxetex, ifluatex}
 
-\usepackage[banglamainfont="Kalpurush", banglattfont="Kalpurus", feature=2]{latexbangla}
+\usepackage[banglamainfont="Kalpurush", banglattfont="Kalpurush", feature=2]{latexbangla}
 
 \usepackage{fontspec}
 
